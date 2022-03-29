@@ -1,0 +1,55 @@
+Welcome to the game of WHEEL OF FORTUNE
+Proverb: _ _ _ - _ _ _ _ - _ _ - _ _ _ _ _ - _ _ _ _ - _ _ _ - _ _ _ _ _ _ _ 
+Press 1 to : Guess a consonant
+Press 2 to : Open a vowel
+Press 3 to : Guess the whole proverb
+Your choice is: 1
+Please make a consonant guess: s
+Congratulations the letter 's' appears 4 times and you are rewarded with 268 points
+Proverb: _ _ _ - _ _ _ _ - _ s - _ _ _ s _ - _ _ _ _ - _ _ _ - _ _ s _ _ s _ 
+Your current score is: 468
+
+********************
+
+Press 1 to : Guess a consonant
+Press 2 to : Open a vowel
+Press 3 to : Guess the whole proverb
+Your choice is: 1
+Please make a consonant guess: t
+Congratulations the letter 't' appears 3 times and you are rewarded with 201 points
+Proverb: t _ _ - _ _ _ _ - _ s - _ _ _ s _ - t _ _ _ - t _ _ - _ _ s _ _ s _ 
+Your current score is: 669
+
+********************
+
+Press 1 to : Guess a consonant
+Press 2 to : Open a vowel
+Press 3 to : Guess the whole proverb
+Your choice is: 2
+Letter 'e' is revealed.
+Proverb: t _ _ - _ _ _ e - _ s - _ _ _ s _ - t _ _ _ - t _ _ - _ _ s _ _ s _ 
+Your current score is: 419
+
+********************
+
+Press 1 to : Guess a consonant
+Press 2 to : Open a vowel
+Press 3 to : Guess the whole proverb
+Your choice is: 2
+Letter 'i' is revealed.
+Proverb: t _ _ - _ _ _ e - i s - _ _ _ s _ - t _ _ _ - t _ _ - _ _ s _ _ s _ 
+Your current score is: 169
+
+********************
+
+Press 1 to : Guess a consonant
+Press 2 to : Open a vowel
+Press 3 to : Guess the whole proverb
+Your choice is: 3
+Please make a guess for the whole proverb: the cure is worse than the disease
+You won :)
+Your current score is: 4369
+
+********************
+
+The proverb was: the cure is worse than the disease
