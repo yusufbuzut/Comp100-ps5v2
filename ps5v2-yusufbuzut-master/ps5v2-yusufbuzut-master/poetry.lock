@@ -1,0 +1,18 @@
+[[package]]
+category = "main"
+description = "Currency conversion using openexangerates API"
+name = "currency"
+optional = false
+python-versions = "*"
+version = "0.1.2"
+
+[metadata]
+content-hash = "b0d0e370f99ff0fcf484404c2745b7fb6a11fcc5cbb7f7417379d57d0091d832"
+python-versions = "^3.8"
+
+[metadata.files]
+currency = [
+    {file = "Currency-0.1.2.linux-x86_64.tar.gz", hash = "sha256:b9d8d587220a3cadb537038c50c76c6433654ca7b27b830818c357a683851978"},
+    {file = "Currency-0.1.2.tar.gz", hash = "sha256:8f75391b3a912aa6ece8125aa41146e956bb298f7b5494f6c268d9ef6cdfac26"},
+    {file = "Currency-0.1.2.zip", hash = "sha256:579a20664032e5bb64e660492c05a4bd80b62df502ce571d33e61cb19ca32729"},
+]
